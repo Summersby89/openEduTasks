@@ -1,0 +1,8 @@
+{
+    "headers": {
+        "/*": {
+            "X-author": "summersby",
+            "Access-Control-Allow-Origin": "*"
+        }
+    }
+}
